@@ -1,0 +1,10 @@
+# ngspice output (huge)
+*.raw
+
+# editor and OS junk
+*~
+*.swp
+*.bak
+.DS_Store
+Thumbs.db
+__pycache__/
