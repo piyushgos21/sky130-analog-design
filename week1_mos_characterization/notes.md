@@ -40,25 +40,17 @@ Tools: Xschem, ngspice (open-source flow in IIC-OSIC-TOOLS).
 
 \## Plots
 
-!\[NMOS Id vs Vds, L=0.15]
+!\[NMOS Id vs Vds, L=0.15](plots/nmos\_id\_vs\_vds\_L015.png)
 
-(week1\_mos\_characterization/plots/nmos\_id\_vs\_vds\_L015.png)
+!\[NMOS Id vs Vds, L=1](plots/nmos\_id\_vs\_vds\_L1.png)
 
-!\[NMOS Id vs Vds, L=1]
+!\[NMOS Id vs Vgs](plots/nmos\_id\_vs\_vgs.png)
 
-(week1\_mos\_characterization/plots/nmos\_id\_vs\_vds\_L1.png)
+!\[NMOS sqrt(Id) vs Vgs](plots/nmos\_sqrt\_id\_vs\_vgs.png)
 
-!\[NMOS Id vs Vgs]
+!\[NMOS gm vs Vgs](plots/nmos\_gm\_vs\_vgs.png)
 
-(week1\_mos\_characterization/plots/nmos\_id\_vs\_vgs.png)
-
-!\[NMOS sqrt(Id) vs Vgs]
-
-(week1\_mos\_characterization/plots/nmos\_sqrt(id)\_vs\_vgs.png)
-
-!\[NMOS gm vs Vgs](week1\_mos\_characterization/plots/nmos\_gm\_vs\_vgs.png)
-
-!\[PMOS Id vs Vsd](week1\_mos\_characterization/plots/pmos\_id\_vs\_vsd.png)
+!\[PMOS Id vs Vsd](plots/pmos\_id\_vs\_vsd.png)
 
 ## What I learned
 
