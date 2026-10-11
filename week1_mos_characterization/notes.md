@@ -40,17 +40,17 @@ Tools: Xschem, ngspice (open-source flow in IIC-OSIC-TOOLS).
 
 \## Plots
 
-!\[NMOS Id vs Vds, L=0.15](plots/nmos\_id\_vs\_vds\_L015.png)
+!\[NMOS Id vs Vds, L=0.15](plots/nmos_id_vs_vds_L015.png)
 
-!\[NMOS Id vs Vds, L=1](plots/nmos\_id\_vs\_vds\_L1.png)
+!\[NMOS Id vs Vds, L=1](plots/nmos_id_vs_vds_L1.png)
 
-!\[NMOS Id vs Vgs](plots/nmos\_id\_vs\_vgs.png)
+!\[NMOS Id vs Vgs](plots/nmos_id_vs_vgs.png)
 
-!\[NMOS sqrt(Id) vs Vgs](plots/nmos\_sqrt\_id\_vs\_vgs.png)
+!\[NMOS sqrt(Id) vs Vgs](plots/nmos_sqrt_id_vs_vgs.png)
 
-!\[NMOS gm vs Vgs](plots/nmos\_gm\_vs\_vgs.png)
+!\[NMOS gm vs Vgs](plots/nmos_gm_vs_vgs.png)
 
-!\[PMOS Id vs Vsd](plots/pmos\_id\_vs\_vsd.png)
+!\[PMOS Id vs Vsd](plots/pmos_id_vs_vsd.png)
 
 ## What I learned
 
