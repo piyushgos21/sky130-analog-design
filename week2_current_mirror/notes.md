@@ -42,9 +42,9 @@
 
 ## Plots
 
-- plots/mirror\_L1\_iout\_vs\_vout.svg
+![Current mirror Iout vs Vout, L=1](plots/mirror_L1_iout_vs_vout.png)
 
-- plots/mirror\_L015\_iout\_vs\_vout.svg
+![Current mirror Iout vs Vout, L=0.15](plots/mirror_L015_iout_vs_vout.png)
 
 ## Observations
 
