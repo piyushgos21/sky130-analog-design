@@ -27,7 +27,7 @@ Tools: Xschem, ngspice (open-source flow in IIC-OSIC-TOOLS).
 
 
 
-\##PMOS (W=1, L=0.15)
+\## PMOS (W=1, L=0.15)
 
 * Peak Id at Vsg = 1.8 V, Vsd = 1.8 V: 200.7 µA
 
@@ -40,18 +40,17 @@ Tools: Xschem, ngspice (open-source flow in IIC-OSIC-TOOLS).
 
 \## Plots
 
-!\[NMOS Id vs Vds, L=0.15]<img width="887" height="682" alt="nmos_id_vs_vds_L015" src="https://github.com/user-attachments/assets/1bfccd71-770d-4fcc-a227-0ea56c9d705d" />
+!\[NMOS Id vs Vds, L=0.15](plots/nmos\_id\_vs\_vds\_L015.png)
 
-!\[NMOS Id vs Vds, L=1]<img width="892" height="682" alt="nmos_id_vs_vds_L1" src="https://github.com/user-attachments/assets/801f5f84-aa8a-4d50-a8f7-9b2b874ab382" />
+!\[NMOS Id vs Vds, L=1](plots/nmos\_id\_vs\_vds\_L1.png)
 
+!\[NMOS Id vs Vgs](plots/nmos\_id\_vs\_vgs.png)
 
-!\[NMOS Id vs Vgs]<img width="885" height="677" alt="nmos_id_vs_vgs" src="https://github.com/user-attachments/assets/2f47f487-a4cb-4828-8277-464ddfcb12fe" />
+!\[NMOS sqrt(Id) vs Vgs](plots/nmos\_sqrt\_id\_vs\_vgs.png)
 
-!\[NMOS sqrt(Id) vs Vgs]<img width="890" height="686" alt="nmos_sqrt_id_vs_vgs" src="https://github.com/user-attachments/assets/2dc2be5a-9bb9-452b-b1d7-a53120231b34" />
+!\[NMOS gm vs Vgs](plots/nmos\_gm\_vs\_vgs.png)
 
-!\[NMOS gm vs Vgs]<img width="890" height="682" alt="nmos_gm_vs_vgs" src="https://github.com/user-attachments/assets/3306b9a2-a768-45cb-95a1-81b7471d6b74" />
-
-!\[PMOS Id vs Vsd]<img width="892" height="677" alt="pmos_id_vs_vsd" src="https://github.com/user-attachments/assets/426bc297-60e9-4afd-8a12-3a002e2b8e7c" />
+!\[PMOS Id vs Vsd](plots/pmos\_id\_vs\_vsd.png)
 
 ## What I learned
 
