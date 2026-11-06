@@ -9,3 +9,7 @@ Analog IC design in the open-source SkyWater 130nm flow: MOSFET characterization
 
   ![NMOS Id vs Vds, L=0.15]
   <img width="887" height="682" alt="nmos_id_vs_vds_L015" src="https://github.com/user-attachments/assets/b146526e-7ccd-40d6-a3b0-3afd49837444" />
+
+- **Week 2: NMOS Current Mirror** ([notes](week2_current_mirror/notes.md)): Simulated a basic NMOS current mirror (W = 2, Iref = 10 µA, VDD = 1.8 V) at L = 1 and L = 0.15. At Vout = 1.0 V, Iout/Iref is 1.017 for L = 1 and 1.24 for L = 0.15. Output resistance is about 1.70 MΩ at L = 1 vs. 115 kΩ at L = 0.15, and the L = 1 mirror needs about 0.23 V of compliance voltage.
+
+  ![Current mirror Iout vs Vout, L=1](week2_current_mirror/plots/mirror_L1_iout_vs_vout.png)
